@@ -123,6 +123,7 @@ export default function LotteryEntrance() {
         </div>
       ) : (
         <div>No address Found</div>
+        <div>what uppppppppp</div>
       )}
     </div>
   );
